@@ -1,0 +1,4 @@
+2022-12-04 01:06:32.825 [info] [perf] Render performance baseline is 23ms
+2022-12-04 01:06:39.928 [error] Error while registering log channel file:///home/guto/.config/Code%20-%20OSS/logs/20221204T010628/userDataSync.log Timed out while waiting for file to be created
+2022-12-04 01:07:55.744 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: application.experimental.rendererProfiling
+2022-12-04 01:09:25.040 [error] ENOENT: no such file or directory, open '/home/guto/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/guto/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'

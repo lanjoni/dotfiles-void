@@ -1,0 +1,16 @@
+ls
+neofetch
+ll
+ls -la
+clear
+ls
+cd
+ls
+clear
+ls -la
+pwd
+open 0
+open #2
+open id=2
+open $2
+clear

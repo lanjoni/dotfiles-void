@@ -1,0 +1,56 @@
+2022-12-04 01:06:30.233 [info] Starting worker process with pid 9845 (type: fileWatcher, window: 1).
+2022-12-04 01:07:12.160 [info] Getting Manifest... jdinhlife.gruvbox
+2022-12-04 01:07:12.162 [info] Installing extension: jdinhlife.gruvbox
+2022-12-04 01:07:13.976 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.9980e42e-ec16-444e-b2f3-b4c48dd74d81: jdinhlife.gruvbox
+2022-12-04 01:07:13.986 [info] Renamed to /home/guto/.vscode-oss/extensions/jdinhlife.gruvbox-1.8.0
+2022-12-04 01:07:13.986 [info] Extracting completed. jdinhlife.gruvbox
+2022-12-04 01:07:13.987 [info] Extension installed successfully: jdinhlife.gruvbox
+2022-12-04 01:07:34.460 [info] Getting Manifest... sainnhe.gruvbox-material
+2022-12-04 01:07:34.462 [info] Installing extension: sainnhe.gruvbox-material
+2022-12-04 01:07:35.950 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.082de517-762a-402b-869f-3f4962f2bc23: sainnhe.gruvbox-material
+2022-12-04 01:07:35.957 [info] Renamed to /home/guto/.vscode-oss/extensions/sainnhe.gruvbox-material-6.5.1
+2022-12-04 01:07:35.958 [info] Extracting completed. sainnhe.gruvbox-material
+2022-12-04 01:07:35.958 [info] Extension installed successfully: sainnhe.gruvbox-material
+2022-12-04 01:08:53.630 [info] Getting Manifest... xdebug.php-debug
+2022-12-04 01:08:53.633 [info] Installing extension: xdebug.php-debug
+2022-12-04 01:08:54.739 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2022-12-04 01:08:54.741 [info] Installing extension: bmewburn.vscode-intelephense-client
+2022-12-04 01:08:54.911 [info] Getting Manifest... xdebug.php-pack
+2022-12-04 01:08:54.916 [info] Installing extension: xdebug.php-pack
+2022-12-04 01:08:55.119 [info] Getting Manifest... xdebug.php-debug
+2022-12-04 01:08:55.121 [info] Getting Manifest... zobo.php-intellisense
+2022-12-04 01:08:55.393 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.51b57f6c-6b62-4f1e-9b34-a2e2f7d090f1: xdebug.php-debug
+2022-12-04 01:08:55.403 [info] Renamed to /home/guto/.vscode-oss/extensions/xdebug.php-debug-1.29.0
+2022-12-04 01:08:55.404 [info] Extracting completed. xdebug.php-debug
+2022-12-04 01:08:55.404 [info] Extension installed successfully: xdebug.php-debug
+2022-12-04 01:08:55.774 [info] Installing extension: zobo.php-intellisense xdebug.php-pack
+2022-12-04 01:08:56.367 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.9656311e-3d9f-4fce-ae95-3e0f81523041: bmewburn.vscode-intelephense-client
+2022-12-04 01:08:56.389 [info] Renamed to /home/guto/.vscode-oss/extensions/bmewburn.vscode-intelephense-client-1.8.2
+2022-12-04 01:08:56.390 [info] Extracting completed. bmewburn.vscode-intelephense-client
+2022-12-04 01:08:56.391 [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+2022-12-04 01:08:58.268 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.447d0f3e-4f53-4c94-8e52-b73ab23eecbc: zobo.php-intellisense
+2022-12-04 01:08:58.282 [info] Renamed to /home/guto/.vscode-oss/extensions/zobo.php-intellisense-1.0.11
+2022-12-04 01:08:58.283 [info] Extracting completed. zobo.php-intellisense
+2022-12-04 01:08:59.328 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.2284e118-8232-4ddd-9be2-8143dbca26f4: xdebug.php-pack
+2022-12-04 01:08:59.336 [info] Renamed to /home/guto/.vscode-oss/extensions/xdebug.php-pack-1.0.3
+2022-12-04 01:08:59.337 [info] Extracting completed. xdebug.php-pack
+2022-12-04 01:08:59.338 [info] Extension installed successfully: zobo.php-intellisense
+2022-12-04 01:08:59.338 [info] Extension installed successfully: xdebug.php-pack
+2022-12-04 01:09:01.287 [info] Getting Manifest... ritwickdey.liveserver
+2022-12-04 01:09:01.290 [info] Installing extension: ritwickdey.liveserver
+2022-12-04 01:09:03.852 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.2aaf903d-588a-4d78-898d-73e668f887d5: ritwickdey.liveserver
+2022-12-04 01:09:03.865 [info] Renamed to /home/guto/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9
+2022-12-04 01:09:03.866 [info] Extracting completed. ritwickdey.liveserver
+2022-12-04 01:09:03.866 [info] Extension installed successfully: ritwickdey.liveserver
+2022-12-04 01:09:08.369 [info] Getting Manifest... 2gua.rainbow-brackets
+2022-12-04 01:09:08.371 [info] Installing extension: 2gua.rainbow-brackets
+2022-12-04 01:09:09.731 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.06eee886-7169-482e-8a04-86ca2b42898b: 2gua.rainbow-brackets
+2022-12-04 01:09:09.740 [info] Renamed to /home/guto/.vscode-oss/extensions/2gua.rainbow-brackets-0.0.6
+2022-12-04 01:09:09.741 [info] Extracting completed. 2gua.rainbow-brackets
+2022-12-04 01:09:09.741 [info] Extension installed successfully: 2gua.rainbow-brackets
+2022-12-04 01:09:22.142 [info] Getting Manifest... vscodevim.vim
+2022-12-04 01:09:22.144 [info] Installing extension: vscodevim.vim
+2022-12-04 01:09:23.749 [info] Extracted extension to /home/guto/.vscode-oss/extensions/.1dc0a547-f3e5-4a9c-b8dc-bd41eaa4bcf7: vscodevim.vim
+2022-12-04 01:09:23.757 [info] Renamed to /home/guto/.vscode-oss/extensions/vscodevim.vim-1.24.3
+2022-12-04 01:09:23.758 [info] Extracting completed. vscodevim.vim
+2022-12-04 01:09:23.759 [info] Extension installed successfully: vscodevim.vim
