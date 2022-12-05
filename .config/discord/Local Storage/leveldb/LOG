@@ -1,4 +1,0 @@
-2022/12/04-01:16:19.882 4562 Creating DB /home/guto/.config/discord/Local Storage/leveldb since it was missing.
-2022/12/04-01:16:19.905 4562 Reusing MANIFEST /home/guto/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/12/04-01:18:55.221 4544 Level-0 table #5: started
-2022/12/04-01:18:55.245 4544 Level-0 table #5: 1236508 bytes OK
